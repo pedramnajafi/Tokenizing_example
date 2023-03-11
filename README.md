@@ -9,4 +9,3 @@ In this example, we use tokenizing by sentence and by word to understand their f
     print("-----")
     word_string = word_tokenize(example_string)
     print(word_string)
-
