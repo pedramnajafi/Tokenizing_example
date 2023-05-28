@@ -8,4 +8,3 @@ print("-----")
 word_string = word_tokenize(example_string)
 print(word_string)
 
-
